@@ -10,7 +10,7 @@
 
 <!-- 右图 + 独立标题 -->
 <div style="text-align:center;">
-<img src="rebuttal_joint.png" alt="..." style="zoom:5%;">
+<img src="rebuttal_decoupled.png" alt="..." style="zoom:5%;">
 <p><strong>Figure 2.</strong> Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR decoupled training</p>
 </div>
 
