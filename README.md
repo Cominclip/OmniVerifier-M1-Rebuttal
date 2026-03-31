@@ -29,7 +29,7 @@
 | OmniVerrifier | rule-based （point）                | 8.07                          | 322                  |
 | Qwen3-VL 8B   | model-based（textual  explanation） | 11.08                         | 488                  |
 | Qwen3-VL 8B   | rule-based （bbox）                | 8.74                          | 516                  |
-| Qwen3-VL 8B   | rule-based （point）                 8.62                          | 466                  |
+| Qwen3-VL 8B   | rule-based （point）                | 8.62                          | 466                  |
 
 **Table2: Evaluation on visual generation benchmark: WISE and T2I-CoreBench.**
 
