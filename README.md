@@ -1,10 +1,10 @@
 # OmniVerifier-M1_rebuttal
 
-![Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR joint training](rebuttal_joint.png)
+<img src="rebuttal_joint.png" alt="Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR joint training" style="zoom:5%;" />
 
 ​                       **Figure 1. Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR joint training**
 
-![Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR decoupled training](rebuttal_decoupled.png)
+<img src="rebuttal_decoupled.png" alt="Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR decoupled training" style="zoom:5%;" />
 
 ​                     **Figure 2. Comparison of symbolic bounding box and textual explanation as meta-verification in verifier RLVR decoupled training **
 
