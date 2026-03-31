@@ -22,14 +22,14 @@
 
 **Table1: Computational Cost Comparison between Model-Based and Rule-Based Rewards.**
 
-| Backbone      | Reward                              | FLOPs | training time per step（min） | mean response length |
-| :------------ | :---------------------------------- | ----- | ----------------------------- | -------------------- |
-| OmniVerifier  | model-based（textual explanation）  |       | 10.27                         | 340                  |
-| OmniVerifier  | rule-based （bbox）                 |       | 8.13                          | 384                  |
-| OmniVerrifier | rule-based （point）                |       | 8.07                          | 322                  |
-| Qwen3-VL 8B   | model-based（textual  explanation） |       | 11.08                         | 488                  |
-| Qwen3-VL 8B   | rule-based （bbox）                 |       | 8.74                          | 516                  |
-| Qwen3-VL 8B   | rule-based （point）                |       | 8.62                          | 466                  |
+| Backbone      | Reward                               | training time per step（min） | mean response length |
+| :------------ | :----------------------------------  | ----------------------------- | -------------------- |
+| OmniVerifier  | model-based（textual explanation）   | 10.27                         | 340                  |
+| OmniVerifier  | rule-based （bbox）                 | 8.13                          | 384                  |
+| OmniVerrifier | rule-based （point）                | 8.07                          | 322                  |
+| Qwen3-VL 8B   | model-based（textual  explanation） | 11.08                         | 488                  |
+| Qwen3-VL 8B   | rule-based （bbox）                | 8.74                          | 516                  |
+| Qwen3-VL 8B   | rule-based （point）                 8.62                          | 466                  |
 
 **Table2: Evaluation on visual generation benchmark: WISE and T2I-CoreBench.**
 
